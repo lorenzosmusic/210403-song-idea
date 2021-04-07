@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1617763192" tv-usec="495344" name="resize notes">
-    <NoteDiffCommand midi-source="2771">
-      <ChangedNotes>
-        <Change property="StartTime" old="87.249981103552528" new="86.999981103552528" id="41398"/>
-        <Change property="Length" old="0.25791666666665947" new="0.50791666666665947" id="41398"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="175" left-frame="1849754" y-origin="190">
-        <Selection>
-          <MIDINotes region-id="3942">
-            <note note-id="41398"/>
-          </MIDINotes>
-          <Marker id="242" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="175" left-frame="1849754" y-origin="190">
-        <Selection>
-          <MIDINotes region-id="3942">
-            <note note-id="41398"/>
-          </MIDINotes>
-          <Marker id="242" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1617763270" tv-usec="588397" name="delete selection">
     <NoteDiffCommand midi-source="2771">
       <ChangedNotes/>
@@ -382,8 +354,8 @@
     <StatefulDiffCommand obj-id="4316" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="4720"/>
           <Add id="4723"/>
+          <Add id="4720"/>
           <Remove id="4319"/>
         </Regions>
       </Changes>
@@ -719,21 +691,21 @@
     <StatefulDiffCommand obj-id="4316" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="4830"/>
+          <Add id="4833"/>
           <Add id="4821"/>
           <Add id="4824"/>
-          <Add id="4833"/>
           <Add id="4827"/>
+          <Add id="4830"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
     <StatefulDiffCommand obj-id="4316" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="4840"/>
-          <Add id="4843"/>
           <Add id="4846"/>
           <Add id="4837"/>
+          <Add id="4840"/>
+          <Add id="4843"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -1116,6 +1088,26 @@
           <MIDINotes region-id="4720">
             <note note-id="130711"/>
           </MIDINotes>
+          <Marker id="242" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1617766862" tv-usec="573209" name="loop range from marker">
+    <MementoCommand obj-id="679" type-name="ARDOUR::Location">
+      <Location id="679" name="Loop" start="184070" end="552209" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+      <Location id="679" name="Loop" start="184070" end="2030517" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="454" left-frame="1742130" y-origin="190">
+        <Selection>
+          <StripableView id="4407"/>
+          <Marker id="242" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="454" left-frame="1742130" y-origin="190">
+        <Selection>
+          <StripableView id="4407"/>
           <Marker id="242" start="1"/>
         </Selection>
       </SelectionMemento>

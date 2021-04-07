@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="210403-song-idea" sample-rate="44100" end-is-free="0" id-counter="4876" name-counter="1" event-counter="135732" vca-counter="1">
+<Session version="3002" name="210403-song-idea" sample-rate="44100" end-is-free="0" id-counter="4905" name-counter="1" event-counter="147309" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4" modified-with="Ardour 1:5.12.0-3ubuntu4"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -487,8 +487,8 @@ Yoshimi gutar bank Dist guitar 3</Comment>
         </Port>
         <Port type="midi" name="Alt MIDI DRUM/midi_out 1"/>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="2687" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="2687" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="2689" flags="Toggle" value="0" phase-invert=""/>
       <Automation>
         <AutomationList automation-id="solo" id="2684" interpolation-style="Discrete" state="Off"/>
@@ -834,8 +834,8 @@ Yoshimi gutar bank Dist guitar 3</Comment>
         </Port>
         <Port type="midi" name="MIDI DRUM/midi_out 1"/>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="4652" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="4652" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="4653" flags="Toggle" value="0" phase-invert=""/>
       <Automation>
         <AutomationList automation-id="solo" id="4654" interpolation-style="Discrete" state="Off"/>
