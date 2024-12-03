@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="210403-song-idea" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="53188" name-counter="1" event-counter="1071033" vca-counter="1">
+<Session version="6000" name="210403-song-idea" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="59835" name-counter="1" event-counter="1075193" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -403,7 +403,9 @@
     <Region name="drums 7-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="37322" length="20199" position="36908758" beat="1604.122135298564" sync-position="37322" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="52594" type="audio" first-edit="nothing" source-0="18638" master-source-0="18638" channels="1"/>
     <Region name="drums 8-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="37322" length="20199" position="36908758" beat="1604.122135298564" sync-position="37322" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="52604" type="audio" first-edit="nothing" source-0="18689" master-source-0="18689" channels="1"/>
   </Regions>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="684" control="0" order="1"/>
+  </Selection>
   <Locations>
     <Location id="242" name="session" start="5752" end="3865461" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1706596285"/>
     <Location id="679" name="Loop" start="39206817" end="39943095" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1706596285"/>
@@ -720,7 +722,7 @@ Yoshimi gutar bank Dist guitar 3</Comment>
         <Automation>
           <AutomationList automation-id="gain" id="687" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="688" flags="GainLike" value="0.55911612510681152"/>
+        <Controllable name="gaincontrol" id="688" flags="GainLike" value="0.53409898281097412"/>
       </Processor>
       <Processor id="716" name="meter-brandeon" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="717" name="brandeon" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="brandeon" type="main-outs" role="Main">
@@ -5838,8 +5840,6 @@ in yoshimi using guitar bank - trash guitar 1</Comment>
       <Window name="RPM-18642" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-54-1001" visible="0" x-off="33" y-off="447" x-size="847" y-size="404" custom-ui="1"/>
       <Window name="PM-54-1001" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-36262-36426" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-36262-36426" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-158-224" visible="0" x-off="730" y-off="0" x-size="20" y-size="20" custom-ui="1"/>
       <Window name="PM-158-224" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-4407-4426" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -5872,6 +5872,8 @@ in yoshimi using guitar bank - trash guitar 1</Comment>
       <Window name="PM-9938-13002" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-9938-13033" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-9938-13116" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-36262-36426" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-36262-36426" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-15376-15487" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-15376-15487" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-36062-36221" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
