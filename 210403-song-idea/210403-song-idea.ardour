@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="210403-song-idea" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="86196" name-counter="1" event-counter="1122403" vca-counter="1">
+<Session version="6000" name="210403-song-idea" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="93157" name-counter="1" event-counter="1149440" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -408,9 +408,7 @@
     <Region name="midi-1.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="368139" position="36905948" beat="1604.0000075585788" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="14" tags="" contents="0" start-beats="0" length-beats="16" id="66526" type="midi" first-edit="nothing" source-0="237" master-source-0="237"/>
     <Region name="midi-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="368139" position="36905948" beat="1604.0000075585788" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" tags="" contents="0" start-beats="0" length-beats="16" id="66533" type="midi" first-edit="nothing" source-0="237" master-source-0="237"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="7451" control="0" order="0"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="242" name="session" start="34639592" end="37780278" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1706596285"/>
     <Location id="679" name="Loop" start="39206817" end="39943095" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1706596285"/>
@@ -3664,6 +3662,8 @@ in yoshimi using guitar bank - trash guitar 1</Comment>
       <Region name="midi guitar-4.61" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="368139" position="36503295" beat="1586.4999716553284" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="84" tags="" contents="0" start-beats="0" length-beats="15.99999433106575" id="51413" type="midi" first-edit="nothing" source-0="15724" master-source-0="15724"/>
       <Region name="midi-1.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="368139" position="36905948" beat="1604.0000075585788" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="85" tags="" contents="0" start-beats="0" length-beats="16" id="66540" type="midi" first-edit="nothing" source-0="237" master-source-0="237"/>
       <Region name="midi-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="368139" position="37274087" beat="1620.0000018896449" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="86" tags="" contents="0" start-beats="0" length-beats="16" id="66547" type="midi" first-edit="nothing" source-0="237" master-source-0="237"/>
+      <Region name="midi guitar-4.63" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="368139" position="37607712" beat="1634.4999546485258" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="88" tags="" contents="0" start-beats="0" length-beats="15.99999433106575" id="92755" type="midi" first-edit="nothing" source-0="15724" master-source-0="15724"/>
+      <Region name="midi guitar-4.62" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="368139" position="37975851" beat="1650.4999489795916" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="87" tags="" contents="0" start-beats="0" length-beats="15.99999433106575" id="92752" type="midi" first-edit="nothing" source-0="15724" master-source-0="15724"/>
     </Playlist>
     <Playlist id="18330" name="drums 1" type="audio" orig-track-id="18285" pgroup-id="2024-02-01 00.30.14" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="drums 1-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="57521" position="6036974" beat="262.37793272864701" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="24395" type="audio" first-edit="nothing" source-0="18332" master-source-0="18332" channels="1">
@@ -4223,6 +4223,154 @@ in yoshimi using guitar bank - trash guitar 1</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
+      <Region name="drums 1-4.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1196452" length="184070" position="37630722" beat="1635.5000113378683" sync-position="1196452" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="92791" type="audio" first-edit="nothing" source-0="34891" master-source-0="34891" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="92797" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001789585704
+184070 1.0000002551134404
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="92792" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="92793" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="92794" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="92795" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="drums 1-4.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1196452" length="184070" position="37814792" beat="1643.5000302343158" sync-position="1196452" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="92781" type="audio" first-edit="nothing" source-0="34891" master-source-0="34891" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="92787" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001789585704
+184070 1.0000002551134404
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="92782" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="92783" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="92784" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="92785" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="drums 1-4.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1196452" length="184070" position="37998861" beat="1651.5000056689341" sync-position="1196452" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="93015" type="audio" first-edit="nothing" source-0="34891" master-source-0="34891" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="93021" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001789585704
+184070 1.0000002551134404
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="93016" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="93017" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="93018" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="93019" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="drums 1-4.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1196452" length="184070" position="38182931" beat="1659.5000245653819" sync-position="1196452" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="93001" type="audio" first-edit="nothing" source-0="34891" master-source-0="34891" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="93007" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001789585704
+184070 1.0000002551134404
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="93002" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="93003" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="93004" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="93005" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
     </Playlist>
     <Playlist id="18381" name="drums 2" type="audio" orig-track-id="18336" pgroup-id="2024-02-01 00.30.14" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="drums 2-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="57521" position="6036974" beat="262.37793272864701" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="24257" type="audio" first-edit="nothing" source-0="18383" master-source-0="18383" channels="1">
@@ -4776,6 +4924,154 @@ in yoshimi using guitar bank - trash guitar 1</Comment>
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="35532" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="drums 2-4.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1196452" length="184070" position="37630722" beat="1635.5000113378683" sync-position="1196452" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="92811" type="audio" first-edit="nothing" source-0="34921" master-source-0="34921" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="92817" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001789585704
+184070 1.0000002551134404
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="92812" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="92813" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="92814" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="92815" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="drums 2-4.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1196452" length="184070" position="37814792" beat="1643.5000302343158" sync-position="1196452" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="92801" type="audio" first-edit="nothing" source-0="34921" master-source-0="34921" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="92807" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001789585704
+184070 1.0000002551134404
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="92802" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="92803" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="92804" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="92805" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="drums 2-4.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1196452" length="184070" position="37998861" beat="1651.5000056689341" sync-position="1196452" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="93122" type="audio" first-edit="nothing" source-0="34921" master-source-0="34921" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="93128" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001789585704
+184070 1.0000002551134404
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="93123" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="93124" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="93125" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="93126" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="drums 2-4.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1196452" length="184070" position="38182931" beat="1659.5000245653819" sync-position="1196452" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="93108" type="audio" first-edit="nothing" source-0="34921" master-source-0="34921" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="93114" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001789585704
+184070 1.0000002551134404
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="93109" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="93110" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="93111" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="93112" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -5702,10 +5998,14 @@ in yoshimi using guitar bank - trash guitar 1</Comment>
       <Region name="Yoshimi-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="92035" length="379643" position="35790028" beat="1555.5000831443688" sync-position="92035" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" tags="" contents="0" start-beats="4.0000094482236364" length-beats="16.499979213907864" id="51383" type="midi" first-edit="nothing" source-0="36113" master-source-0="36113"/>
       <Region name="Yoshimi-3.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="92035" length="379644" position="36158169" beat="1571.5001643990927" sync-position="92035" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" tags="" contents="0" start-beats="4.0000094482236364" length-beats="16.500022675736773" id="51401" type="midi" first-edit="nothing" source-0="36113" master-source-0="36113"/>
       <Region name="Yoshimi-3.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="92035" length="299110" position="36526308" beat="1587.5001587301581" sync-position="92035" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" tags="" contents="0" start-beats="4.0000094482236364" length-beats="12.999867724867954" id="51398" type="midi" first-edit="nothing" source-0="36113" master-source-0="36113"/>
+      <Region name="Yoshimi-3.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="92035" length="379644" position="37630722" beat="1635.5000113378683" sync-position="92035" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" tags="" contents="0" start-beats="4.0000094482236364" length-beats="16.500022675736773" id="92778" type="midi" first-edit="nothing" source-0="36113" master-source-0="36113"/>
+      <Region name="Yoshimi-3.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="92035" length="379644" position="37998861" beat="1651.5000056689341" sync-position="92035" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" tags="" contents="0" start-beats="4.0000094482236364" length-beats="16.500022675736773" id="92919" type="midi" first-edit="nothing" source-0="36113" master-source-0="36113"/>
     </Playlist>
     <Playlist id="36307" name="sax Yoshimi" type="midi" orig-track-id="36262" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="sax Yoshimi-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="414157" length="368139" position="34639592" beat="1505.5000302343155" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" tags="" contents="0" start-beats="18.000020786091909" length-beats="15.999994331065864" id="36440" type="midi" first-edit="nothing" source-0="36313" master-source-0="36313"/>
       <Region name="sax Yoshimi-3.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="414157" length="368139" position="35007731" beat="1521.5000245653814" sync-position="414157" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" tags="" contents="0" start-beats="18.000020786091909" length-beats="15.999994331065864" id="36464" type="midi" first-edit="nothing" source-0="36313" master-source-0="36313"/>
+      <Region name="sax Yoshimi-3.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="414157" length="368139" position="37584704" beat="1633.4999848828418" sync-position="414157" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" tags="" contents="0" start-beats="18.000020786091909" length-beats="15.999994331065864" id="92749" type="midi" first-edit="nothing" source-0="36313" master-source-0="36313"/>
+      <Region name="sax Yoshimi-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="414157" length="368139" position="37952843" beat="1649.4999792139076" sync-position="414157" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" tags="" contents="0" start-beats="18.000020786091909" length-beats="15.999994331065864" id="92746" type="midi" first-edit="nothing" source-0="36313" master-source-0="36313"/>
     </Playlist>
   </Playlists>
   <UnusedPlaylists>
@@ -5849,6 +6149,12 @@ in yoshimi using guitar bank - trash guitar 1</Comment>
       <Window name="RPM-18642" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-54-1001" visible="0" x-off="33" y-off="447" x-size="847" y-size="404" custom-ui="1"/>
       <Window name="PM-54-1001" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-7451-12716" visible="0" x-off="0" y-off="111" x-size="641" y-size="278" custom-ui="1"/>
+      <Window name="P-7451-12465" visible="0" x-off="0" y-off="0" x-size="1110" y-size="780" custom-ui="1"/>
+      <Window name="P-7451-12731" visible="0" x-off="0" y-off="37" x-size="943" y-size="427" custom-ui="1"/>
+      <Window name="PM-7451-12716" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-7451-12465" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-7451-12731" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-158-224" visible="0" x-off="730" y-off="0" x-size="20" y-size="20" custom-ui="1"/>
       <Window name="PM-158-224" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-4407-4426" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -5867,12 +6173,6 @@ in yoshimi using guitar bank - trash guitar 1</Comment>
       <Window name="PM-2677-2839" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2677-2870" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2677-2812" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-7451-12716" visible="0" x-off="0" y-off="111" x-size="641" y-size="278" custom-ui="1"/>
-      <Window name="P-7451-12465" visible="0" x-off="0" y-off="0" x-size="1110" y-size="780" custom-ui="1"/>
-      <Window name="P-7451-12731" visible="0" x-off="0" y-off="37" x-size="943" y-size="427" custom-ui="1"/>
-      <Window name="PM-7451-12716" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-7451-12465" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-7451-12731" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-9938-12758" visible="0" x-off="0" y-off="218" x-size="641" y-size="64" custom-ui="1"/>
       <Window name="P-9938-13002" visible="0" x-off="0" y-off="16" x-size="1020" y-size="468" custom-ui="1"/>
       <Window name="P-9938-13033" visible="0" x-off="0" y-off="0" x-size="1110" y-size="780" custom-ui="1"/>
@@ -6438,7 +6738,7 @@ in yoshimi using guitar bank - trash guitar 1</Comment>
           </Object>
           <Object id="processor 36056"/>
         </Object>
-        <Object id="rtav 36062" height="316" visible="1" note-range-min="25" note-range-max="46" midnam-custom-device-mode="General MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 36062" height="316" visible="1" note-range-min="28" note-range-max="49" midnam-custom-device-mode="General MIDI" color-mode="MeterColors"/>
         <Object id="automation 36066" height="66" visible="0"/>
         <Object id="automation 36062 12/0/0" height="66" visible="0"/>
         <Object id="strip 36062" strip-width="Wide" visible="1">
